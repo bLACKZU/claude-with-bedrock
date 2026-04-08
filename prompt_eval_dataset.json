@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Write a Python function that retrieves the latest versions of AWS Lambda runtimes.",
+    "format": "python",
+    "solution_criteria": "The function should return a dictionary where the keys are the runtime names and the values are the latest versions."
+  },
+  {
+    "task": "Create a JSON object that defines an AWS CloudFormation template for creating an S3 bucket with public read access.",
+    "format": "json",
+    "solution_criteria": "The JSON object should include the necessary properties to create an S3 bucket with the specified access permissions."
+  },
+  {
+    "task": "Write a regular expression to validate an AWS Lambda function name.",
+    "format": "regex",
+    "solution_criteria": "The regular expression should ensure that the function name is between 1 and 64 characters long and only contains alphanumeric characters, underscores, and hyphens."
+  }
+]
